@@ -1,0 +1,109 @@
+a {
+    color: black;
+}
+
+.weatherTable {
+    border: black solid 2px;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.sectionTitle {
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 145%;
+    margin-top: 2%;
+}
+
+.refresh {
+    display: block;
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.newsElement {
+    border: solid black 2px;
+    background-color: white;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.newsTitle {
+    padding: 2%;
+}
+
+.remindersTitle {
+    border: solid black 2px;
+    background-color: white;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.redditElement {
+    border: solid black 2px;
+    background-color: white;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    padding-left: 2%;
+}
+
+.redditTitle {
+    padding: 2%;
+}
+
+.redditUps {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#menu {
+    background-color: #FFFC99;
+    border: black solid 3px;
+    margin-left: 2%;
+    margin-right: 1%;
+}
+
+#tasks {
+    background-color: #BBADFF;
+    border: black solid 3px;
+    margin-left: 1%;
+}
+
+#reddit {
+    background-color: #FFC0CB;
+    border: black solid 3px;
+    margin-left: 2%;
+    margin-right: .5%;
+}
+
+#news {
+    background-color: #B1F8F2;
+    border: black solid 3px;
+    margin-left: .5%;
+    margin-right: .5%;
+}
+
+#reminders {
+    background-color: #FFCA99;
+    border: black solid 3px;
+    margin-left: .5%;
+    margin-right: .5%;
+}
+
+#weather {
+    background-color: #C5EFCB;
+    border: black solid 3px;
+    margin-left: .5%;
+}
+
+#header {
+    font-size: 150%;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
